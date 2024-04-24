@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://overloadmaturespanner.com/pfhnq51g8?key=29116f19f1a20c864e8eaefd6786614a` 
+					`https://wordpress-1255634-4508375.cloudwaysapps.com/` 
 				}`,
 			},
 		};
