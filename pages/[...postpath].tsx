@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://wordpress-1255634-4508375.cloudwaysapps.com/` 
+					`https://bit.ly/49T1kvE` 
 				}`,
 			},
 		};
